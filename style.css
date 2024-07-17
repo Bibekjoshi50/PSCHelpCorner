@@ -1,3 +1,9 @@
 .marquee{
     color: red;
 }
+body{
+    background-color: rgb(140, 140, 179);color: rgb(136, 82, 82);
+}
+nav{
+    background-color: yellow;
+}
