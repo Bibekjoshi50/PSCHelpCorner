@@ -1,16 +1,4 @@
-.marquee{
-    color: red;
-}
-body{
-    background-color: rgb(140, 140, 179);color: rgb(136, 82, 82);
-}
-nav{
-    background-color: yellow;
-}
-#box4{
-    position: fixed;
-    right: 10px;
-    bottom: 20px;
-    width: 100vw;
-
+.navbar{
+    text-align: center;
+    display: flex;
 }
